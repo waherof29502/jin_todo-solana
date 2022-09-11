@@ -1,0 +1,17 @@
+{
+	"siteId": "a584e191-2280-42ce-9304-47e5ad9b1349",
+	"geolocation": {
+		"data": {
+			"city": "Hualien City",
+			"country": {
+				"code": "TW",
+				"name": "Taiwan"
+			},
+			"subdivision": {
+				"code": "HUA",
+				"name": "Hualien"
+			}
+		},
+		"timestamp": 1662901960283
+	}
+}
